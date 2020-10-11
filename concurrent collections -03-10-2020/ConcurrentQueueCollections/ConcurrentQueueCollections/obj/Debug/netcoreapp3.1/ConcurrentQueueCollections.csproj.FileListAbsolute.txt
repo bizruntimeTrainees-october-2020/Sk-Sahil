@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.exe
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.deps.json
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.dll
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\bin\Debug\netcoreapp3.1\ConcurrentQueueCollections.pdb
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.dll
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.pdb
+C:\Users\SK SAHIL\source\repos\ConcurrentQueueCollections\ConcurrentQueueCollections\obj\Debug\netcoreapp3.1\ConcurrentQueueCollections.genruntimeconfig.cache
