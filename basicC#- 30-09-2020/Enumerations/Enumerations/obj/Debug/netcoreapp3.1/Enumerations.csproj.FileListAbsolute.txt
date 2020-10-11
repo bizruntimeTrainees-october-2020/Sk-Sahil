@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.exe
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.deps.json
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\SK SAHIL\source\repos\Enumerations\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.genruntimeconfig.cache
