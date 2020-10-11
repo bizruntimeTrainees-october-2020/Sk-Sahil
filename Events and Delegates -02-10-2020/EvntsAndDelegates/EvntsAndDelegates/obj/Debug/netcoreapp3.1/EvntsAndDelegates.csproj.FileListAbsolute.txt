@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.exe
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.deps.json
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.dll
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\bin\Debug\netcoreapp3.1\EvntsAndDelegates.pdb
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.dll
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.pdb
+C:\Users\SK SAHIL\source\repos\EvntsAndDelegates\EvntsAndDelegates\obj\Debug\netcoreapp3.1\EvntsAndDelegates.genruntimeconfig.cache
