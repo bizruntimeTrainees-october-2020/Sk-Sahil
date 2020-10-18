@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.exe
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.deps.json
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.dll
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\bin\Debug\netcoreapp3.1\TaskPrograms.pdb
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.dll
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.pdb
+C:\Users\SK SAHIL\source\repos\TaskPrograms\TaskPrograms\obj\Debug\netcoreapp3.1\TaskPrograms.genruntimeconfig.cache
