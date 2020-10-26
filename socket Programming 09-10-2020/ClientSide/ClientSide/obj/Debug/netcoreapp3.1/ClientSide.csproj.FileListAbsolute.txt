@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.exe
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.deps.json
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\bin\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.dll
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.pdb
+C:\Users\SK SAHIL\source\repos\ClientSide\ClientSide\obj\Debug\netcoreapp3.1\ClientSide.genruntimeconfig.cache
