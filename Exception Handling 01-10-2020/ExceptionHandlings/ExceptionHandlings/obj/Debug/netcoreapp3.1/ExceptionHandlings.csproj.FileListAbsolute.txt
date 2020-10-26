@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.exe
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.deps.json
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.dll
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\bin\Debug\netcoreapp3.1\ExceptionHandlings.pdb
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.dll
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.pdb
+C:\Users\SK SAHIL\source\repos\ExceptionHandlings\ExceptionHandlings\obj\Debug\netcoreapp3.1\ExceptionHandlings.genruntimeconfig.cache

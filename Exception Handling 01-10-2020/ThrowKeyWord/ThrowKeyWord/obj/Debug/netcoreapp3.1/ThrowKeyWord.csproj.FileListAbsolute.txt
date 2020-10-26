@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.exe
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.deps.json
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.dll
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\bin\Debug\netcoreapp3.1\ThrowKeyWord.pdb
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.dll
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.pdb
+C:\Users\SK SAHIL\source\repos\ThrowKeyWord\ThrowKeyWord\obj\Debug\netcoreapp3.1\ThrowKeyWord.genruntimeconfig.cache
