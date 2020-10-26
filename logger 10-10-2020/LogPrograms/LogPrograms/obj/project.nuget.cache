@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dCKtqeaThyTfCii10eh5SLaik8+lT+WKe03sGaAeooR3ckwccNib7aLawfp4mBkBa1bmuQSTgdqNro30unUwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SK SAHIL\\source\\repos\\LogPrograms\\LogPrograms\\LogPrograms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\log4net\\2.0.11\\log4net.2.0.11.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
