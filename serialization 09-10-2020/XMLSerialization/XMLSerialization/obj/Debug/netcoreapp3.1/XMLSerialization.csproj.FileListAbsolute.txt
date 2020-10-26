@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.exe
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.deps.json
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\bin\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.dll
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.pdb
+C:\Users\SK SAHIL\source\repos\XMLSerialization\XMLSerialization\obj\Debug\netcoreapp3.1\XMLSerialization.genruntimeconfig.cache

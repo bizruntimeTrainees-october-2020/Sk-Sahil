@@ -1,0 +1,15 @@
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.exe
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.deps.json
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.dll
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\JsonSerialization.pdb
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.csproj.CopyComplete
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.dll
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.pdb
+C:\Users\SK SAHIL\source\repos\JsonSerialization\JsonSerialization\obj\Debug\netcoreapp3.1\JsonSerialization.genruntimeconfig.cache
