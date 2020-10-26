@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "irSTIlU12ShttGJFTlnYax8wRrgOrSBQh71S1G8xetWhfz7cOG7O7wODu6ZoVXJ05ZUGJenNbAyvN3M+4MhpCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SK SAHIL\\source\\repos\\JSON.NET\\JSON.NET\\JSonConvert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SK SAHIL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
