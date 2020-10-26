@@ -1,0 +1,13 @@
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.exe
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.deps.json
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.runtimeconfig.json
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.runtimeconfig.dev.json
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.dll
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\bin\Debug\netcoreapp3.1\AdoNetDataSetConsole.pdb
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.AssemblyInfoInputs.cache
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.AssemblyInfo.cs
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.dll
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.pdb
+C:\Users\SK SAHIL\source\repos\AdoNetDataSetConsole\AdoNetDataSetConsole\obj\Debug\netcoreapp3.1\AdoNetDataSetConsole.genruntimeconfig.cache
