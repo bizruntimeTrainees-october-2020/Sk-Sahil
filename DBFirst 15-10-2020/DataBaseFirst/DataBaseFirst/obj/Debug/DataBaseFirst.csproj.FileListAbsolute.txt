@@ -1,0 +1,12 @@
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe.config
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.exe
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\DataBaseFirst.pdb
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.csproj.CopyComplete
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.exe
+C:\Users\SK SAHIL\source\repos\DataBaseFirst\DataBaseFirst\obj\Debug\DataBaseFirst.pdb
