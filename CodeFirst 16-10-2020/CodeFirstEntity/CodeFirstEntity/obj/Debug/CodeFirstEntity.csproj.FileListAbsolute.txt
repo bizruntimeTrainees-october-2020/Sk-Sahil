@@ -1,0 +1,14 @@
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\CodeFirstEntity.exe.config
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\CodeFirstEntity.exe
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\CodeFirstEntity.pdb
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\EntityFramework.dll
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\EntityFramework.xml
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.csprojAssemblyReference.cache
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.csproj.CoreCompileInputs.cache
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.csproj.CopyComplete
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.exe
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.pdb
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.Migrations.CreatePost.resources
+C:\Users\SK SAHIL\source\repos\CodeFirstEntity\CodeFirstEntity\obj\Debug\CodeFirstEntity.csproj.GenerateResource.cache
