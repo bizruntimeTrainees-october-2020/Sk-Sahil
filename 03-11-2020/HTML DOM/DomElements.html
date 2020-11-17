@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #myDIV {
+            background-color: coral;
+            border: 1px solid;
+            padding: 50px;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- code of access -->
+    <a src="https://www.google.com" id="mygoogle" accesskey="g">google</a>
+    <p>click button to get accessKey property</p>
+    <button onclick="myfunction()"> click to get accesss</button>
+    <p id="demo"></p>
+
+    <!-- code for eventlistener -->
+    <p>if you click the below button then you will see some message</p>
+    <button id="mybtn">get message </button>
+    <p id="para"></p>
+
+    <!-- another eventListener -->
+    <div id="myDIV">This div element has an onmousemove event handler that displays a random number every time you move
+        your mouse inside this orange field.
+        <p>Click the button to remove the DIV's event handler.</p>
+        <button onclick="removeHandler()" id="myBtn">Try it</button>
+    </div>
+    <p id="anotherEvent"></p>
+
+    <!-- append Child -->
+    <ul id="myList">
+        <li>Coffee</li>
+        <li>Tea</li>
+    </ul>
+    <p>Click the button to append an item to the end of the list.</p>
+    <button onclick="appending()">Append to Click</button>
+
+    <!-- attribute -->
+    <p>It will show total no of attribute the below button has</p>
+    <button id="attrbtn" onclick="lengthFunction()">Get Total Attributes</button>
+    <p id="attrpara"></p>
+
+    <!-- click elwments -->
+    <p>Hover over the checkbox to simulate a mouse-click.</p>
+
+    <form>
+        <input type="checkbox" id="myCheck" onmouseover="mouseCheck()" onclick="alert('click event occured')">
+    </form>
+
+    <script>
+
+        //    alt+accesskey
+        function myfunction() {
+            var x = document.getElementById("mygoogle").accessKey;
+            document.getElementById("demo").innerHTML = x;
+        }
+
+        //addEventListener
+        var x = document.getElementById("mybtn").addEventListener("click", function () {
+            document.getElementById("para").innerHTML = "As you clicked to eventListener So i am event"
+
+        });
+
+        //another EventListener
+        document.getElementById("myDIV").addEventListener("mousemove", myFunction);
+        function myFunction() {
+            document.getElementById("anotherEvent").innerHTML = Math.random();
+        }
+        function removeHandler() {
+            document.getElementById("myDIV").removeEventListener("mousemove", myFunction);
+        }
+
+        //append child
+        function appending() {
+            var node = document.createElement("LI");
+            var textnode = document.createTextNode("Wine");
+            node.appendChild(textnode);
+            document.getElementById("myList").appendChild(node);
+        }
+
+        //    attribute
+        function lengthFunction() {
+            var x = document.getElementById("attrbtn").attributes.length;
+            document.getElementById("attrpara").innerHTML = x;
+
+        }
+
+        // click()
+         
+function mouseCheck(){
+    document.getElementById("myCheck").click();
+}
+
+    </script>
+
+</body>
+
+</html>

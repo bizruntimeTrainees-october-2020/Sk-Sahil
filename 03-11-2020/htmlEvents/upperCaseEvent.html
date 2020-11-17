@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- formevents -->
+    <!-- uppercase event -->
+    <p>when we enter name inside input box it automatically create uppercase</p>
+    Enter your name: <input type="text" name="fname" id="fname" onblur="myUpperCase()">
+
+
+    <script src="/helper.js"></script>
+
+    <!-- onselect -->
+    <p>Select a new car from the list.</p>
+    Some text: <input type="text" value="Select me!!" onselect="mySelect()">
+
+
+
+    <!-- onchange -->
+    <select id="mySelect" onchange="myChange()">
+        <option value="Audi">Audi
+        <option value="BMW">BMW
+        <option value="Mercedes">Mercedes
+        <option value="Volvo">Volvo
+    </select>
+    <p id="change"></p>
+
+    <!-- onsubmit -->
+    <form action="/action.html" onsubmit="mySubmit()">
+        Enter name: <input type="text" name="fname">
+        <input type="submit" value="Submit">
+    </form>
+
+
+    <!-- keyboardEvents -->
+    <!-- onkeydown -->
+    <p>A function is triggered when the user is pressing and  key is down in the input field.</p>
+
+    <input type="text" onkeydown="myKeyDown()">
+
+    <p>A function is triggered when the user is pressing a key in the input field.</p>
+
+    <input type="text" onkeypress="myKeyPress()">
+   
+    <p>when user release a key</p>
+    <input type="text" onkeyup="mykeyRel()">
+
+    <br><br><br>
+    <!-- mouseEvents -->
+
+     <!-- onclick -->
+     <button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
+     
+
+    <!-- Double-click -->
+    <p>it fires when we double click the button</p>
+    <button  ondblclick="myDBClick()">Double-click me</button>
+   
+
+    <p id="demo"></p>
+     <p id="db"></p>
+
+    
+</body>
+
+</html>
