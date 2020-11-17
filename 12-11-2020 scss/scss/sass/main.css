@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.main_header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  background-color: #8395a7;
+}
+
+h1 {
+  letter-spacing: 0.5rem;
+  font-size: 7rem;
+  text-transform: capitalize;
+  color: #222f3e;
+}
+
+h1:hover {
+  color: #ee5253;
+}
+
+h1::after {
+  content: " BizRun";
+}
+
+p {
+  letter-spacing: 0.3rem;
+  font-size: 7rem;
+  text-transform: capitalize;
+  color: #222f3e;
+}
+
+p:hover {
+  color: #ee5253;
+}
+/*# sourceMappingURL=main.css.map */

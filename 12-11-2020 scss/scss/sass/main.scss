@@ -1,0 +1,36 @@
+@import "mixin";
+@import "var";
+
+*{ margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+
+
+.main_header{
+    @include flexprop;
+    width: 100vw;
+    height: 100vh;
+    background-color:$bg-color;
+}
+
+h1{
+    @include commonprop(0.5rem);
+    
+    color: #222f3e;
+     &:hover{ color:#ee5253};
+    &::after{content: " BizRun";}
+}
+p{
+@include commonprop(0.3rem);
+color:$ele-color ;
+&:hover{ color: #ee5253;}
+
+}
+
+
+
+//operator,variable,nesting,mixin&include

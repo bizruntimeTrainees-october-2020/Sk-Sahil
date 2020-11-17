@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(208, 224, 230);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  .para{
+      text-align: center;
+  }
+  
+  #para1{
+      align-items: center;
+      padding: 40px;
+      margin: 20px;
+      width: 350px;
+      height: 350px;
+      padding: 10px;
+      border: 1px solid black;
+      border-radius: 20px;
+      position: absolute;
+  }
+  .googlelink{
+     a:ho 
+  }

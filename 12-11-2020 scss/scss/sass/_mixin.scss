@@ -1,0 +1,13 @@
+@mixin flexprop {
+    display: flex;
+    justify-content: center;
+       align-items: center;
+       flex-direction: column;
+    
+}
+
+@mixin commonprop($param1) {
+    letter-spacing: $param1;
+    font-size: $font;
+    text-transform: capitalize;
+}
