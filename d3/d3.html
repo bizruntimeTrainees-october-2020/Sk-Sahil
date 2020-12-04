@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, dolorum quaerat. Aut exercitationem nulla ullam officiis rem eius iste natus?</h2>
+
+<ul></ul>
+
+<svg></svg>
+
+<div role="main">
+    <div class="charts"></div>
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script>
+
+
+d3.select("h2").style('font-size',"10px");
+heros=['Captain America','Hulk','Iron Man','Bat Man','ShaktiMan','Wonder Woman'];
+
+var numbers=[20,30,50,35,15,120,90,150];
+barHeight=18;
+d3.select("ul")
+.selectAll('li')
+.data(heros)
+.enter()
+.append('li')
+.text(hero=>hero+ '  !');
+
+d3.select('svg')
+.selectAll("rect")
+.data(numbers)
+.enter()
+.append("rect")
+.attr("width",d=>d)
+.attr("height",barHeight-4)
+ .attr(
+     'transform',(d,i)=>"translate(100,"+ i*barHeight+")"
+ ).attr('fill','#807e7e');
+
+
+ var data = [8, 12, 15, 30, 41,31,23,14,7,2];
+
+var w = 30, h = 500;
+
+var chart = d3.select(".charts").append("svg")
+  .attr("class", "chart")
+  .attr("width", w * data.length+100)
+  .attr("height", h);
+
+var x = d3.scaleLinear()
+  .domain([0, .8])
+  .range([0, w]);
+
+var y = d3.scaleLinear()
+  .domain([0,70 ])
+  .rangeRound([0, h]); //rangeRound is used for antialiasing
+
+// x and y are the lower-left position of the bar
+// width is the width of the bar
+// height is the height of the bar
+// for crisp edges use -.5 (antialiasing)
+chart.selectAll("rect")
+  .data(data)
+  .enter().append("rect")
+  .attr("x", function(d, i) { return x(i) - .5; })
+  .attr("y", function(d) { return h - y(d) -.5})
+  .attr("width", w)
+  .attr("height", function(d) { return y(d); } )
+  .attr('fill','#69b3a2');
+
+// horizontal line for the x-axis
+chart.append("line")
+  .attr("x1", 0)
+  .attr("x2", w * data.length)
+  .attr("y1", h - .5)
+  .attr("y2", h - .5)
+  .style("stroke", "#807e7e");
+
+
+
+
+</script>
+   
+</body>
+</html>
